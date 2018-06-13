@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model quotingDojo.Models.Quotes
+<form method="POST" action="/process">
+    <label for="Name">Name: <input asp-for="Name"></label> <span class="error" asp-validation-for="Name"></span><br>
+    <label for="Quote">Quote: <textarea asp-for="Quote"></textarea></label> <span class="error" asp-validation-for="Quote"></span><br>
+    <input type="submit" value="Submit!">
+</form>

@@ -1,0 +1,11 @@
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\bin\Debug\netcoreapp2.0\quotingDojo.deps.json
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\bin\Debug\netcoreapp2.0\quotingDojo.runtimeconfig.json
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\bin\Debug\netcoreapp2.0\quotingDojo.runtimeconfig.dev.json
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\bin\Debug\netcoreapp2.0\quotingDojo.dll
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\bin\Debug\netcoreapp2.0\quotingDojo.pdb
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.csprojResolveAssemblyReference.cache
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.csproj.CoreCompileInputs.cache
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.AssemblyInfoInputs.cache
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.AssemblyInfo.cs
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.dll
+C:\Users\Kevino\Desktop\dojoassignments\c#\2-web_apps\quotingDojo\obj\Debug\netcoreapp2.0\quotingDojo.pdb

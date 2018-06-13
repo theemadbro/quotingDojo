@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "All Quotes";
+}
+
+@{
+    foreach(var x in @ViewBag.all)
+    {
+        <h1>"@x["quote"]"</h1>
+        <h2 style="margin-left:60px;">- @x["name"]</h2><p style="margin-right: 30px;text-align: right">@x["created_at"]</p>
+        <hr>
+    }
+}
